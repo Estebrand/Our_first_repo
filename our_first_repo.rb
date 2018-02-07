@@ -6,3 +6,5 @@ puts "tell us something"
 input = gets.chomp
 
 puts input.reverse
+
+puts input.upcase
