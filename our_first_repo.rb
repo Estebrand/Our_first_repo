@@ -2,6 +2,7 @@
 
 puts "Hello Universe"
 
-puts "Good Bye"
+puts "tell us something"
+input = gets.chomp
 
-puts "made a change"
+puts input.reverse
